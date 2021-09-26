@@ -1,0 +1,2 @@
+# Cnewbie
+calculer le salaire
